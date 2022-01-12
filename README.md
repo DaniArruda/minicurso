@@ -1,2 +1,2 @@
-# minicurso
-minicurso e desafio Catalisa 
+# Minicurso
+Minicurso e desafio Catalisa 
